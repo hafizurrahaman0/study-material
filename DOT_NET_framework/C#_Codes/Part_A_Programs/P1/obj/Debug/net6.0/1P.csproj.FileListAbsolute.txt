@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\bin\Debug\net6.0\1P.exe
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\bin\Debug\net6.0\1P.deps.json
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\bin\Debug\net6.0\1P.runtimeconfig.json
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\bin\Debug\net6.0\1P.dll
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\bin\Debug\net6.0\1P.pdb
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.dll
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\refint\1P.dll
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.pdb
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\1P.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Part_A_VB_Programs\1P\obj\Debug\net6.0\ref\1P.dll
